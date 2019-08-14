@@ -25,3 +25,13 @@ Disorient yourself in Niagara Falls. This dizzy destination is both flipped and 
 
 Visit this attraction during the summer months for the best experience. Remember to check times and rates on their Facebook page, which acts in place of a website.
 
+
+# WonderWorks - Museum
+
+WonderWorks is an entertainment center focused on science exhibits with five locations in the United States. The company's slogan is "Let Your Imagination Run Wild". Its buildings are commonly built as if they are upside down. The experience is considered an "edu-tainment", a combination of education and entertainment. It contains over one hundred hands on exhibits that challenges the mind and many activities for guests to explore.
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WonderWorks_%28Orlando%2C_Florida%29_001.jpg/260px-WonderWorks_%28Orlando%2C_Florida%29_001.jpg)
+
+Each WonderWorks location contains interactive, entertainment exhibits on the themes of space, physics, and math. Some locations also offer a dinner magic show, as well as a 4D XD motion theater. Each WonderWorks building is designed to look as if an existing building was ripped free of the ground by severe weather and dropped upside down on its roof. This unique design was originally brought to life by architect and Orlando native Terry O. Nichoson of Nichoson Design International at WonderWorks' original Orlando location.
+
+The legend of WonderWorks begins with the world's greatest scientists led by professor Wonder. Their top secret research laboratory located on a remote island in the Bermuda Triangle was the site for their latest experiment, creating a man made tornado. The experiment goes wrong and the tornado is unleashed into the laboratory, removing it from the ground and carrying it thousands of miles away until it lands upside down onto the current locations.
