@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to The Upsidedowns
 
-You can use the [editor on GitHub](https://github.com/TheUpsidedowns/TheUpsidedowns/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# THE UPSIDE DOWN HOUSE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Upside Down House is an attraction in Niagara Falls constructed and built by Marek Cyran with help from Daniel Czapiewski, two creative Polish men. The Upside Down House is upside down from the outside to the inside, this house looks as if it has been literally picked up and placed on it’s roof. It is a great place to visit.
 
-### Markdown
+The Upside Down House is open seven days of the week and it will be hard to miss when you are driving along Clifton Hill. The Upside Down House is open to the public. Children under four are free.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](http://www.infoniagara.com/attractions/upside-down-house/images/upside-down-house1.png
+)
 
-```markdown
-Syntax highlighted code block
+Location: Clifton Hill, Niagara Falls
+Monday to Thursday - 12:00 pm - 10:00 pm
+Friday - 12:00 pm - 11:00 pm
+Saturday - 10:00 pm - 11:00 pm
+Sunday - 10:00 pm - 10:00 pm
 
-# Header 1
-## Header 2
-### Header 3
+This is a super fun and quirky tourist attraction. The whole place is a house that is built to look upside down. The exterior to the interior is all upside down! 
 
-- Bulleted
-- List
+![Image](https://www.marriottonthefalls.com/wp-content/uploads/2012/10/upside-down-house-ext.jpg)
 
-1. Numbered
-2. List
+On Clifton Hill in Niagara Falls kitsch is king and among the newest attractions clustered on Clifton Hill is the Upside Down House, also known as the Whoopsy House depending on who you ask. This attraction has a greater summertime appeal and is walking distance away from the Clifton Hill area.
 
-**Bold** and _Italic_ and `Code` text
+Disorient yourself in Niagara Falls. This dizzy destination is both flipped and crooked, the floor will leave you wondering how far you need to tilt to stay straight. The disorientation continues as your group parades through this unique attraction. The Upside Down House is open with current hours available on their Facebook page. As a bonus to families children under four have free admission.
 
-[Link](url) and ![Image](src)
-```
+Visit this attraction during the summer months for the best experience. Remember to check times and rates on their Facebook page, which acts in place of a website.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheUpsidedowns/TheUpsidedowns/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
